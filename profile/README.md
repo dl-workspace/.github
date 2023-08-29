@@ -1,6 +1,6 @@
 <br>
 <h1 align="center" style="color: rgb(255, 0, 225);">Hello there 👋, welcome to my workspace</h1>
-<h2 align="center" style="color: rgb(255, 0, 225);">This is the place where I store my personal projects</h2>
+<h2 align="center" style="color: rgb(255, 0, 225);">This is where I store my personal projects</h2>
 
 <details open>
   <summary>
