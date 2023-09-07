@@ -12,6 +12,10 @@
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dl-workspace&repo=Aqukin&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
         alt="Aqukin">
     </a>
+        <a href="https://github.com/dl-workspace/HoloBoss"><img width="275"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dl-workspace&repo=HoloBoss&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
+        alt="HoloBoss">
+    </a>
     <a href="https://github.com/ennacord/tenchikatori-toes"><img width="275"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ennacord&repo=tenchikatori-toes&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
         alt="tenchikatori-toes">
@@ -23,10 +27,6 @@
     <a href="https://github.com/dl-workspace/Custom-Newtab-Extension"><img width="275"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dl-workspace&repo=Custom-Newtab-Extension&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
         alt="Aqukin">
-    </a>
-    <a href="https://github.com/dl-workspace/HoloBoss"><img width="275"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dl-workspace&repo=HoloBoss&theme=transparent&bg_color=1F222E&title_color=00C9B1&text_color=82ACF9&hide_border=false&icon_color=B792EB"
-        alt="HoloBoss">
     </a>
   </p>
 </details>
